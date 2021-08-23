@@ -1,2 +1,5 @@
 # ista-schiedam
+
+'van € 60,00 naar € 65,00 perbmaand'
+
 nog meer betalen per maand voor dagen zonder centrale verwarming
